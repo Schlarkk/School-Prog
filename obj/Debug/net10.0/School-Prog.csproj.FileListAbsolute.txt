@@ -1,0 +1,15 @@
+c:\Repositories\c# scripts\School-Prog\bin\Debug\net10.0\School-Prog.exe
+c:\Repositories\c# scripts\School-Prog\bin\Debug\net10.0\School-Prog.deps.json
+c:\Repositories\c# scripts\School-Prog\bin\Debug\net10.0\School-Prog.runtimeconfig.json
+c:\Repositories\c# scripts\School-Prog\bin\Debug\net10.0\School-Prog.dll
+c:\Repositories\c# scripts\School-Prog\bin\Debug\net10.0\School-Prog.pdb
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\School-Prog.GeneratedMSBuildEditorConfig.editorconfig
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\School-Prog.AssemblyInfoInputs.cache
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\School-Prog.AssemblyInfo.cs
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\School-Prog.csproj.CoreCompileInputs.cache
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\School-Prog.sourcelink.json
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\School-Prog.dll
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\refint\School-Prog.dll
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\School-Prog.pdb
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\School-Prog.genruntimeconfig.cache
+c:\Repositories\c# scripts\School-Prog\obj\Debug\net10.0\ref\School-Prog.dll
